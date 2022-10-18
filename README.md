@@ -13,3 +13,6 @@ Compilation of output and guide notes when taking the course. Most of the codes 
 - [Questions](/07-questions)
 - [Menu](/08-menu)
 - [Video](/09-video)
+- [Scroll](/10-scroll)
+- [Tabs](/11-tabs)
+- [Countdown Timer](/12-countdown-timer)
