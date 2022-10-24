@@ -16,3 +16,6 @@ Compilation of output and guide notes when taking the course. Most of the codes 
 - [Scroll](/10-scroll)
 - [Tabs](/11-tabs)
 - [Countdown Timer](/12-countdown-timer)
+- [Lorem Ipsum](/13-lorem-ipsum)
+- [Grocery Bud](/14-grocery-bud)
+- [Slider](/15-slider)
