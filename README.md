@@ -19,3 +19,4 @@ Compilation of output and guide notes when taking the course. Most of the codes 
 - [Lorem Ipsum](/13-lorem-ipsum)
 - [Grocery Bud](/14-grocery-bud)
 - [Slider](/15-slider)
+- [Counter](/16-counter)
