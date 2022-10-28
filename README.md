@@ -20,3 +20,4 @@ Compilation of output and guide notes when taking the course. Most of the codes 
 - [Grocery Bud](/14-grocery-bud)
 - [Slider](/15-slider)
 - [Counter](/16-counter)
+- [Gallery](/17-gallery)
