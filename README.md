@@ -21,3 +21,6 @@ Compilation of output and guide notes when taking the course. Most of the codes 
 - [Slider](/15-slider)
 - [Counter](/16-counter)
 - [Gallery](/17-gallery)
+- [Numbers](/18-numbers)
+- [Dark Mode](/19-dark-mode)
+- [Filters](/20-filters)
