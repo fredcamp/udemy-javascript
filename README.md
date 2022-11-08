@@ -24,3 +24,5 @@ Compilation of output and guide notes when taking the course. Most of the codes 
 - [Numbers](/18-numbers)
 - [Dark Mode](/19-dark-mode)
 - [Filters](/20-filters)
+- [Dad Jokes](/21-dad-jokes)
+- [Products](/22-products)
