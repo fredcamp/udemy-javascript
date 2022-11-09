@@ -1,6 +1,6 @@
 # Udemy Javascript
 
-Compilation of output and guide notes when taking the course. Most of the codes are not the same with the instructor since I coded them before watching the instructor's solution. Course [link](https://www.udemy.com/course/javascript-tutorial-for-beginners-w)
+Compilation of output and guide notes when taking the course. Most of the codes are not exactly the same with the instructor since I coded them before watching the instructor's solution. Course [link](https://www.udemy.com/course/javascript-tutorial-for-beginners-w)
 
 ## Topics
 
@@ -26,3 +26,5 @@ Compilation of output and guide notes when taking the course. Most of the codes 
 - [Filters](/20-filters)
 - [Dad Jokes](/21-dad-jokes)
 - [Products](/22-products)
+- [Random User](/23-random-user)
+- [Cocktails](/24-cocktails)

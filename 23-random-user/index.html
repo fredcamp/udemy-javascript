@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Random Person</title>
+    <!-- font-awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+    />
+    <!-- css -->
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+
+  <body>
+    <div class="block bcg-black"></div>
+    <div class="block">
+      <div class="container">
+        <img
+          src="https://randomuser.me/api/portraits/men/75.jpg"
+          alt="profile photo"
+          class="user-img"
+        />
+        <p class="user-title">My name is</p>
+        <p class="user-value">John Smith</p>
+
+        <div class="values-list">
+          <button class="icon" data-label="name">
+            <i class="far fa-user"></i>
+          </button>
+
+          <button class="icon" data-label="email">
+            <i class="far fa-envelope-open"></i>
+          </button>
+
+          <button class="icon" data-label="age">
+            <i class="far fa-calendar-times"></i>
+          </button>
+
+          <button class="icon" data-label="street">
+            <i class="far fa-map"></i>
+          </button>
+
+          <button class="icon" data-label="phone">
+            <i class="fas fa-phone"></i>
+          </button>
+
+          <button class="icon" data-label="password">
+            <i class="fas fa-user-lock"></i>
+          </button>
+        </div>
+        <button class="btn">random user</button>
+      </div>
+    </div>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
