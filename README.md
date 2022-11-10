@@ -28,3 +28,4 @@ Compilation of output and guide notes when taking the course. Most of the codes 
 - [Products](/22-products)
 - [Random User](/23-random-user)
 - [Cocktails](/24-cocktails)
+- [Slider](/25-slider)
