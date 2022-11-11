@@ -29,3 +29,4 @@ Compilation of output and guide notes when taking the course. Most of the codes 
 - [Random User](/23-random-user)
 - [Cocktails](/24-cocktails)
 - [Slider](/25-slider)
+- [Stripe Submenus](/26-stripe-submenus)
