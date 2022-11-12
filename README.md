@@ -30,3 +30,5 @@ Compilation of output and guide notes when taking the course. Most of the codes 
 - [Cocktails](/24-cocktails)
 - [Slider](/25-slider)
 - [Stripe Submenus](/26-stripe-submenus)
+- [Pagination](/27-pagination)
+- [Wikipedia](/28-wikipedia)
