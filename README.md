@@ -32,3 +32,4 @@ Compilation of output and guide notes when taking the course. Most of the codes 
 - [Stripe Submenus](/26-stripe-submenus)
 - [Pagination](/27-pagination)
 - [Wikipedia](/28-wikipedia)
+- [Comfy Store](/29-comfy-store)
